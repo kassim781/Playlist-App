@@ -42,7 +42,7 @@ const SONGS = [
     title: "Perfect",
     artist: "Ed Sheeran",
     image: "https://i1.sndcdn.com/artworks-000223977248-5owk0a-t500x500.jpg",
-    fav: false,
+    fav: true,
     recent: true,
   },
   {
