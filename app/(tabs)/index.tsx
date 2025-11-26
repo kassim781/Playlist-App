@@ -270,7 +270,7 @@ export default function SongsPlaylistApp() {
         title: `🎵 Welcome ${username}!`,
         body: "Now enjoy your music 🎧",
       },
-      trigger: { seconds: 3 }, // 3 seconds after login
+      trigger: { seconds: 3}, // 3 seconds after login
     });
   }
 
