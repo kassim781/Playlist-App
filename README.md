@@ -1,18 +1,22 @@
-# 📱 To-Do List App (Expo + React Native)
+# 🎵 Playlist App (Expo + React Native)
 
-A modern, smooth, and customizable To-Do List application built using **Expo**, **React Native**, and **TypeScript**.  
-This app includes animations, drag-and-drop sorting, swipe actions, and a clean UI for managing tasks efficiently.
+A beautifully designed **Music Playlist App** built with **Expo**, **React Native**, and **TypeScript**.  
+This app provides a smooth, modern experience for managing and previewing playlists with clean UI, animations, and responsive interactions.
 
 ---
 
 ## 🚀 Features
 
-- ✨ Add, edit, and delete tasks  
-- 🔄 Drag & drop to reorder items  
-- 👆 Swipe to delete or complete tasks  
-- 🎨 Beautiful UI with animations  
-- 📦 Stores data locally  
-- 💯 Built using Expo + React Native + TypeScript  
+- 🎵 Create and manage playlists  
+- ➕ Add or remove songs  
+- 🎼 Play / pause support (if implemented)  
+- 🖐 Swipe & tap UI interactions  
+- ✨ Smooth animations  
+- 🎨 Modern UI design  
+- 📁 Organized folder structure  
+- 📱 Android + iOS support  
+- 💾 Local storage support (optional)  
+
 
 ---
 
