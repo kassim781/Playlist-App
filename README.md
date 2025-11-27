@@ -26,3 +26,4 @@ Place your screenshot in:
 ![App Screenshot](./assets/images/PlaylistApp.png.jpg)
 
 ![App Screenshot 2](./assets/images/PlaylistApp.png2.jpg)
+![App Screenshot 2](./PlaylistApp.mp4)
